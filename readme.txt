@@ -1,3 +1,3 @@
 Welcome to MyProject!
 
-Author: Jose Antonio
+Author: Jose Antonio Cerdan
